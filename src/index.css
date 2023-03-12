@@ -1,0 +1,21 @@
+html{
+    background-color: darkslategray;
+}
+.container-fluid{
+    background-color: darkslategray;
+}
+/* .row{
+    background-color: red
+} */
+/* .col-sm-6{
+    background-color: lightpink
+} */
+input[type="text"]{
+    background :transparent;
+    color:white;
+}
+input[type="text"]:focus{
+    background :transparent;
+    color:white
+}
+

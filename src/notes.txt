@@ -1,0 +1,4 @@
+// important points
+1. row class apne aap me ek row hai
+2. row ke aandar columns aate hai jise hum col se likhte hai bootstrap me
+3.  bootstrap me ek roW me by default 12 columns hote hai.
